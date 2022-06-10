@@ -3,3 +3,5 @@ My name is Janki Purohit.
 I am from Gandhinagar.
 My Hometown is Modasa.
 Occupation:Professor
+age:27
+Smile is best therapy.
